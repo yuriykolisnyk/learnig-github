@@ -1,0 +1,20 @@
+{
+  "name": "learning-github",
+  "version": "1.0.0",
+  "description": "Знакомство с репозиторием",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriykolisnyk/learning-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriykolisnyk/learning-github/issues"
+  },
+  "homepage": "https://github.com/yuriykolisnyk/learning-github#readme"
+}
