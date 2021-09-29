@@ -4,7 +4,8 @@
   "description": "Знакомство с репозиторием",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
